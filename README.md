@@ -1,4 +1,5 @@
-![CoderDojo Timisoara Robotics logo](gh-assets/coderdojo-barbarosa-logo-transparent.png "CoderDojo Timisoara Robotics")
+
+<img src="gh-assets/coderdojo-barbarosa-logo-transparent.png" alt="CoderDojo Timisoara Robotics" style="height:200px;">
 
 # Smart-plant
 
